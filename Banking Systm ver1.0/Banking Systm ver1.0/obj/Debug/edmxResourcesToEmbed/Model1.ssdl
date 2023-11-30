@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="admin_Table">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="debit">
+    <Key>
+      <PropertyRef Name="serial_no" />
+    </Key>
+    <Property Name="serial_no" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="debit_date" Type="nvarchar" MaxLength="50" />
+    <Property Name="account_no" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="old_balance" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="debit_Mode" Type="nvarchar" MaxLength="30" />
+    <Property Name="debit_amount" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="deposit">
+    <Key>
+      <PropertyRef Name="serial_no" />
+    </Key>
+    <Property Name="serial_no" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="deposit_date" Type="nvarchar" MaxLength="50" />
+    <Property Name="account_no" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="old_balance" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="deposit_Mode" Type="nvarchar" MaxLength="30" />
+    <Property Name="deposit_amount" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="employee">
+    <Key>
+      <PropertyRef Name="employee_id" />
+    </Key>
+    <Property Name="employee_id" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="emp_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="gender" Type="nvarchar" MaxLength="10" />
+    <Property Name="dob" Type="nvarchar" MaxLength="50" />
+    <Property Name="phone_no" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="address" Type="nvarchar" MaxLength="80" />
+    <Property Name="username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FD">
+    <Key>
+      <PropertyRef Name="s_no" />
+    </Key>
+    <Property Name="s_no" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="account_no" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="fd_mode" Type="nvarchar" MaxLength="30" />
+    <Property Name="rupees" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="period" Type="int" />
+    <Property Name="intrest_rate" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="maturity_date" Type="nvarchar" MaxLength="50" />
+    <Property Name="maturity_amount" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="start_date" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="transfer">
+    <Key>
+      <PropertyRef Name="s_no" />
+    </Key>
+    <Property Name="s_no" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="transfer_date" Type="nvarchar" MaxLength="50" />
+    <Property Name="account_no" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="balance" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="transfer_to" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="user_account">
+    <Key>
+      <PropertyRef Name="account_no" />
+    </Key>
+    <Property Name="account_no" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="dob" Type="nvarchar" MaxLength="50" />
+    <Property Name="phone_no" Type="decimal" Precision="13" Scale="0" />
+    <Property Name="address" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="district" Type="nvarchar" MaxLength="50" />
+    <Property Name="state" Type="nvarchar" MaxLength="50" />
+    <Property Name="picture" Type="image" />
+    <Property Name="gender" Type="nvarchar" MaxLength="50" />
+    <Property Name="martial_status" Type="nvarchar" MaxLength="50" />
+    <Property Name="mother_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="father_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="registration_date" Type="nvarchar" MaxLength="50" />
+    <Property Name="balance" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="cnic" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="user_table">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="username" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="password" Type="nvarchar" MaxLength="40" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__debit__account_n__01142BA1">
+    <End Role="user_account" Type="Self.user_account" Multiplicity="0..1" />
+    <End Role="debit" Type="Self.debit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user_account">
+        <PropertyRef Name="account_no" />
+      </Principal>
+      <Dependent Role="debit">
+        <PropertyRef Name="account_no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__deposit__account__72C60C4A">
+    <End Role="user_account" Type="Self.user_account" Multiplicity="0..1" />
+    <End Role="deposit" Type="Self.deposit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user_account">
+        <PropertyRef Name="account_no" />
+      </Principal>
+      <Dependent Role="deposit">
+        <PropertyRef Name="account_no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__FD__account_no__160F4887">
+    <End Role="user_account" Type="Self.user_account" Multiplicity="0..1" />
+    <End Role="FD" Type="Self.FD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user_account">
+        <PropertyRef Name="account_no" />
+      </Principal>
+      <Dependent Role="FD">
+        <PropertyRef Name="account_no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__transfer__accoun__7A672E12">
+    <End Role="user_account" Type="Self.user_account" Multiplicity="0..1" />
+    <End Role="transfer" Type="Self.transfer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user_account">
+        <PropertyRef Name="account_no" />
+      </Principal>
+      <Dependent Role="transfer">
+        <PropertyRef Name="account_no" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="admin_Table" EntityType="Self.admin_Table" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="debit" EntityType="Self.debit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="deposit" EntityType="Self.deposit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="employee" EntityType="Self.employee" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FD" EntityType="Self.FD" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="transfer" EntityType="Self.transfer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="user_account" EntityType="Self.user_account" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="user_table" EntityType="Self.user_table" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__debit__account_n__01142BA1" Association="Self.FK__debit__account_n__01142BA1">
+      <End Role="user_account" EntitySet="user_account" />
+      <End Role="debit" EntitySet="debit" />
+    </AssociationSet>
+    <AssociationSet Name="FK__deposit__account__72C60C4A" Association="Self.FK__deposit__account__72C60C4A">
+      <End Role="user_account" EntitySet="user_account" />
+      <End Role="deposit" EntitySet="deposit" />
+    </AssociationSet>
+    <AssociationSet Name="FK__FD__account_no__160F4887" Association="Self.FK__FD__account_no__160F4887">
+      <End Role="user_account" EntitySet="user_account" />
+      <End Role="FD" EntitySet="FD" />
+    </AssociationSet>
+    <AssociationSet Name="FK__transfer__accoun__7A672E12" Association="Self.FK__transfer__accoun__7A672E12">
+      <End Role="user_account" EntitySet="user_account" />
+      <End Role="transfer" EntitySet="transfer" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

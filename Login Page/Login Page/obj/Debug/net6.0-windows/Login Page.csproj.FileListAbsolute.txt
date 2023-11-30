@@ -1,0 +1,28 @@
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\Login Page.exe
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\Login Page.deps.json
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\Login Page.runtimeconfig.json
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\Login Page.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\Login Page.pdb
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login_Page.Form1.resources
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login_Page.Properties.Resources.resources
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfoInputs.cache
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.AssemblyInfo.cs
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\refint\Login Page.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.pdb
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.genruntimeconfig.cache
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\ref\Login Page.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hamza\source\repos\Login Page\Login Page\obj\Debug\net6.0-windows\Login Page.csproj.CopyComplete

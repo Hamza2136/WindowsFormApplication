@@ -1,0 +1,23 @@
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\Database Connection.exe
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\Database Connection.deps.json
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\Database Connection.runtimeconfig.json
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\Database Connection.dll
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\Database Connection.pdb
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database_Connection.Form1.resources
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database_Connection.Properties.Resources.resources
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.AssemblyInfoInputs.cache
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.AssemblyInfo.cs
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.csproj.CopyComplete
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.dll
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\refint\Database Connection.dll
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.pdb
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\Database Connection.genruntimeconfig.cache
+C:\Users\hamza\source\repos\Database Connection\Database Connection\obj\Debug\net6.0-windows\ref\Database Connection.dll
+C:\Users\hamza\source\repos\Database Connection\Database Connection\bin\Debug\net6.0-windows\System.Data.OracleClient.dll

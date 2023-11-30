@@ -1,0 +1,40 @@
+C:\Users\hamza\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.exe
+C:\Users\hamza\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.deps.json
+C:\Users\hamza\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.runtimeconfig.json
+C:\Users\hamza\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.dll
+C:\Users\hamza\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.pdb
+C:\Users\hamza\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather_checker.Form1.resources
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather_checker.Properties.Resources.resources
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.AssemblyInfoInputs.cache
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.AssemblyInfo.cs
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.csproj.CopyComplete
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.dll
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\refint\weather checker.dll
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.pdb
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.genruntimeconfig.cache
+C:\Users\hamza\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\ref\weather checker.dll
+D:\Desktop Files\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.exe
+D:\Desktop Files\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.deps.json
+D:\Desktop Files\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.runtimeconfig.json
+D:\Desktop Files\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.dll
+D:\Desktop Files\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\weather checker.pdb
+D:\Desktop Files\source\repos\weather checker\weather checker\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.csproj.AssemblyReference.cache
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather_checker.Form1.resources
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather_checker.Properties.Resources.resources
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.csproj.GenerateResource.cache
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.AssemblyInfoInputs.cache
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.AssemblyInfo.cs
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.csproj.CoreCompileInputs.cache
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.csproj.CopyComplete
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.dll
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\refint\weather checker.dll
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.pdb
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\weather checker.genruntimeconfig.cache
+D:\Desktop Files\source\repos\weather checker\weather checker\obj\Debug\net6.0-windows\ref\weather checker.dll

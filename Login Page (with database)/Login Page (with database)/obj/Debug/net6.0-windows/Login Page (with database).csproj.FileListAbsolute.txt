@@ -1,0 +1,36 @@
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\Login Page (with database).exe
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\Login Page (with database).deps.json
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\Login Page (with database).runtimeconfig.json
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\Login Page (with database).dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\Login Page (with database).pdb
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login_Page__with_database_.Form1.resources
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login_Page__with_database_.Properties.Resources.resources
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).AssemblyInfoInputs.cache
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).AssemblyInfo.cs
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\refint\Login Page (with database).dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).pdb
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).genruntimeconfig.cache
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\ref\Login Page (with database).dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\System.Data.OracleClient.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login Page (with database).csproj.CopyComplete
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login_Page__with_database_.registration_form.resources
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login_Page__with_database_.forget_password.resources
+C:\Users\hamza\source\repos\Login Page (with database)\Login Page (with database)\obj\Debug\net6.0-windows\Login_Page__with_database_.loading.resources

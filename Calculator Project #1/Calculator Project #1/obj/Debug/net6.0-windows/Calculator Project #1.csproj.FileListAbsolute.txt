@@ -1,0 +1,18 @@
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\bin\Debug\net6.0-windows\Calculator Project #1.exe
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\bin\Debug\net6.0-windows\Calculator Project #1.deps.json
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\bin\Debug\net6.0-windows\Calculator Project #1.runtimeconfig.json
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\bin\Debug\net6.0-windows\Calculator Project #1.dll
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\bin\Debug\net6.0-windows\Calculator Project #1.pdb
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator_Project__1.Form1.resources
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator_Project__1.Properties.Resources.resources
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.AssemblyInfoInputs.cache
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.AssemblyInfo.cs
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.dll
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\refint\Calculator Project #1.dll
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.pdb
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\Calculator Project #1.genruntimeconfig.cache
+C:\Users\hamza\source\repos\Calculator Project #1\Calculator Project #1\obj\Debug\net6.0-windows\ref\Calculator Project #1.dll

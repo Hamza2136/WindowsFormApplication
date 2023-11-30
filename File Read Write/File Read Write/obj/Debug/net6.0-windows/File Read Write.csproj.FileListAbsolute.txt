@@ -1,0 +1,17 @@
+C:\Users\hamza\source\repos\File Read Write\File Read Write\bin\Debug\net6.0-windows\File Read Write.exe
+C:\Users\hamza\source\repos\File Read Write\File Read Write\bin\Debug\net6.0-windows\File Read Write.deps.json
+C:\Users\hamza\source\repos\File Read Write\File Read Write\bin\Debug\net6.0-windows\File Read Write.runtimeconfig.json
+C:\Users\hamza\source\repos\File Read Write\File Read Write\bin\Debug\net6.0-windows\File Read Write.dll
+C:\Users\hamza\source\repos\File Read Write\File Read Write\bin\Debug\net6.0-windows\File Read Write.pdb
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File_Read_Write.Form1.resources
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.AssemblyInfoInputs.cache
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.AssemblyInfo.cs
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.dll
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\refint\File Read Write.dll
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.pdb
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\File Read Write.genruntimeconfig.cache
+C:\Users\hamza\source\repos\File Read Write\File Read Write\obj\Debug\net6.0-windows\ref\File Read Write.dll

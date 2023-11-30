@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DWiWJ0twrXn3+9jdQuDMkylILikn7KvCjLZyFXCOV0TiDYtoY4vU7R3JqsASSFFMAYh8sQxbDNxtjUbcTyGkA==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop Files\\source\\repos\\weather checker\\weather checker\\weather checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamza\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

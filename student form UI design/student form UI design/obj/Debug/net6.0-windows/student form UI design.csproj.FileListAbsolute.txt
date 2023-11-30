@@ -1,0 +1,18 @@
+C:\Users\hamza\source\repos\student form UI design\student form UI design\bin\Debug\net6.0-windows\student form UI design.exe
+C:\Users\hamza\source\repos\student form UI design\student form UI design\bin\Debug\net6.0-windows\student form UI design.deps.json
+C:\Users\hamza\source\repos\student form UI design\student form UI design\bin\Debug\net6.0-windows\student form UI design.runtimeconfig.json
+C:\Users\hamza\source\repos\student form UI design\student form UI design\bin\Debug\net6.0-windows\student form UI design.dll
+C:\Users\hamza\source\repos\student form UI design\student form UI design\bin\Debug\net6.0-windows\student form UI design.pdb
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student_form_UI_design.Form1.resources
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student_form_UI_design.Properties.Resources.resources
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.AssemblyInfoInputs.cache
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.AssemblyInfo.cs
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.dll
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\refint\student form UI design.dll
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.pdb
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\student form UI design.genruntimeconfig.cache
+C:\Users\hamza\source\repos\student form UI design\student form UI design\obj\Debug\net6.0-windows\ref\student form UI design.dll

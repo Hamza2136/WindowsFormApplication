@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{857A9AD1-AE72-4247-A386-514AB7D86A24}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Banking_Systm_ver1._0</RootNamespace>
+    <AssemblyName>Banking Systm ver1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.4\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Common, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.Common.4.3.0\lib\net451\System.Data.Common.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.OracleClient, Version=1.0.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.OracleClient.1.0.8\lib\netstandard2.0\System.Data.OracleClient.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin_Table.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="all_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="all_customer.Designer.cs">
+      <DependentUpon>all_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="balancesheetform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="balancesheetform.Designer.cs">
+      <DependentUpon>balancesheetform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="changePassform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="changePassform.Designer.cs">
+      <DependentUpon>changePassform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="debit.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="deposit.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="depositform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="depositform.Designer.cs">
+      <DependentUpon>depositform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="FD.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="FDform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FDform.Designer.cs">
+      <DependentUpon>FDform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forgetpassform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forgetpassform.Designer.cs">
+      <DependentUpon>forgetpassform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingPage.Designer.cs">
+      <DependentUpon>LoadingPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="NewAcc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAcc.Designer.cs">
+      <DependentUpon>NewAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newuserform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newuserform.Designer.cs">
+      <DependentUpon>newuserform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="transfer.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="transferform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transferform.Designer.cs">
+      <DependentUpon>transferform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_SearchAcc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_SearchAcc.Designer.cs">
+      <DependentUpon>Update_SearchAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="user_account.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="user_table.cs">
+      <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="viewfdform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viewfdform.Designer.cs">
+      <DependentUpon>viewfdform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="withdrawform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="withdrawform.Designer.cs">
+      <DependentUpon>withdrawform.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="all_customer.resx">
+      <DependentUpon>all_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="balancesheetform.resx">
+      <DependentUpon>balancesheetform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="changePassform.resx">
+      <DependentUpon>changePassform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="depositform.resx">
+      <DependentUpon>depositform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FDform.resx">
+      <DependentUpon>FDform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forgetpassform.resx">
+      <DependentUpon>forgetpassform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingPage.resx">
+      <DependentUpon>LoadingPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAcc.resx">
+      <DependentUpon>NewAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newuserform.resx">
+      <DependentUpon>newuserform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="transferform.resx">
+      <DependentUpon>transferform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_SearchAcc.resx">
+      <DependentUpon>Update_SearchAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viewfdform.resx">
+      <DependentUpon>viewfdform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="withdrawform.resx">
+      <DependentUpon>withdrawform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="Model1.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model1.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model1.edmx.diagram">
+      <DependentUpon>Model1.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Model1.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model1.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model1.edmx</DependentUpon>
+      <LastGenOutput>Model1.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

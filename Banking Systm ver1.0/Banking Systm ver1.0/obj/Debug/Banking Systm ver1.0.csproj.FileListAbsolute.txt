@@ -1,0 +1,31 @@
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking Systm ver1.0.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking Systm ver1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.Login.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.Properties.Resources.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking Systm ver1.0.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking Systm ver1.0.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\bin\Debug\Banking Systm ver1.0.exe.config
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\bin\Debug\Banking Systm ver1.0.exe
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\bin\Debug\Banking Systm ver1.0.pdb
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\bin\Debug\EntityFramework.dll
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\bin\Debug\Guna.UI2.dll
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\bin\Debug\EntityFramework.xml
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking Systm ver1.0.csproj.CopyComplete
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking Systm ver1.0.exe
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking Systm ver1.0.pdb
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.Menu.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.NewAcc.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.all_customer.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.Update_SearchAcc.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.depositform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.transferform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.FDform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.withdrawform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.viewfdform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.balancesheetform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.changePassform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.forgetpassform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.newuserform.resources
+C:\Users\hamza\source\repos\Banking Systm ver1.0\Banking Systm ver1.0\obj\Debug\Banking_Systm_ver1._0.LoadingPage.resources
